@@ -3,12 +3,11 @@
 <h1 align="center" style="margin-left:2%">Hey, pals! <img src="https://raw.githubusercontent.com/SamsonGoodenough/SamsonGoodenough/master/peace_sign.gif" width="30px"></h3>
 
 <p align="center">
-My name is Samson Goodenough (he/him), I'm a full-stack developer currently studying Computer Science and Mathematics at Wilfrid Laurier University.  
+My name is Samson Goodenough (he/him), I'm a full-stack developer currently studying Computer Science and Mathematics at Wilfrid Laurier University.  When I'm not coding on here, my privite work is all going on Bitbucket.
 </p> <br>
 
 <h2 align="center" style="margin-left:-6%">🧰 Tools & Systems</h3>
 
-***
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=EE255A" />
   <img src="https://img.shields.io/badge/Environment-WSL-informational?style=flat&logo=Linux&logoColor=white&color=F37E90" />
@@ -28,7 +27,7 @@ My name is Samson Goodenough (he/him), I'm a full-stack developer currently stud
   <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=SamsonGoodenough&theme=radical&title_color=EE255A&text_color=e3e3e3&show_icons=true&icon_color=E87F8F" />
+    <img align="center" style="margin-top:5px; height:165px" src="https://github-readme-stats.vercel.app/api?username=SamsonGoodenough&theme=radical&title_color=EE255A&text_color=e3e3e3&show_icons=true&icon_color=E87F8F" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" style="margin-top:5px" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamsonGoodenough&theme=radical&title_color=EE255A&text_color=e3e3e3&show_icons=true&icon_color=E87F8F&layout=compact&langs_count=6" />
