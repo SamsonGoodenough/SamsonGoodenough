@@ -27,9 +27,7 @@ My name is Samson Goodenough (he/him), I'm a full-stack developer currently stud
   <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" style="margin-top:5px; height:165px" src="https://github-readme-stats.vercel.app/api?username=SamsonGoodenough&theme=radical&title_color=EE255A&text_color=e3e3e3&show_icons=true&icon_color=E87F8F" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" style="margin-top:5px; height:165px !important" src="https://github-readme-stats.vercel.app/api?username=SamsonGoodenough&theme=radical&title_color=EE255A&text_color=e3e3e3&show_icons=true&icon_color=E87F8F" />
     <img align="center" style="margin-top:5px" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamsonGoodenough&theme=radical&title_color=EE255A&text_color=e3e3e3&show_icons=true&icon_color=E87F8F&layout=compact&langs_count=6" />
   </a>
 </p>
