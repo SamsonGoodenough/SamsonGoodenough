@@ -26,8 +26,8 @@ My name is Samson Goodenough (he/him), I'm a full-stack developer currently stud
   <img src="https://img.shields.io/badge/Built-Different%20%F0%9F%98%8E-informational?style=flat&logo=stylelint&logoColor=white&color=EE255A" />
   <br>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <div style="height:165px; margin-top:5px">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="align: center">
+    <div style="display:flex;margin-top:5px">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamsonGoodenough&theme=radical&title_color=EE255A&text_color=e3e3e3&show_icons=true&icon_color=E87F8F" />
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamsonGoodenough&theme=radical&title_color=EE255A&text_color=e3e3e3&show_icons=true&icon_color=E87F8F&layout=compact&langs_count=6" />
     </div>
