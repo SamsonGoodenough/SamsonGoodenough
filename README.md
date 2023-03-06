@@ -3,7 +3,7 @@
 <h1 align="center" style="margin-left:2%">Hey, pals! <img src="https://raw.githubusercontent.com/SamsonGoodenough/SamsonGoodenough/master/peace_sign.gif" width="30px"></h3>
 
 <p align="center">
-My name is Samson Goodenough (he/him), I'm a full-stack developer currently studying Computer Science and Mathematics at Wilfrid Laurier University.  When I'm not coding on here, my privite work is all going on Bitbucket.
+My name is Samson Goodenough (he/him), I'm a full-stack developer currently studying Computer Science and Mathematics at Wilfrid Laurier University. 
 </p> <br>
 
 <h2 align="center" style="margin-left:-6%">🧰 Tools & Systems</h3>
